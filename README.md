@@ -5,7 +5,14 @@
 <img align="right"  alt="Coding" width="500" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 
-
+```javascript
+const user = {
+    name: "Dao Ba Anh Quan",
+    age: 21,
+    currentUniversity: "FPT University",
+    website: ""
+}
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaan154dev&label=Profile%20views&color=0e75b6&style=flat" alt="quaan154dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -18,6 +25,7 @@
 - 🔦 I'm a self taught ** Front-end Developer**
 
 - 📫 How to reach me **quandba154@gmail.com**
+
 
 <h3 align="left">🤝Connect with me:🤝</h3>
 <p align="left">
