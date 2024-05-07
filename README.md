@@ -36,33 +36,31 @@ const user = {
 <!-- https://simpleicons.org/ -->
 👉 Programming languages
 <p align="left">
-  <span><img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=F05138" alt="Swift logo" title="Swift" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-  <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
   <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-  <span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" /></span>
+<!--   <span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" /></span> -->
 &nbsp;
 </p>
 👉 Frameworks
 <p align="left">
- <span><img src="https://img.shields.io/badge/SwiftUIkit-282C34?logo=swift&logoColor=258FFA" alt="Swift logo" title="Swift" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-282C34?logo=ruby-on-rails&logoColor=CC0000" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" /></span>
-&nbsp;
+  <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;   
+<!--  <span><img src="https://img.shields.io/badge/SwiftUIkit-282C34?logo=swift&logoColor=258FFA" alt="Swift logo" title="Swift" height="25" /></span>
+&nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-282C34?logo=ruby-on-rails&logoColor=CC0000" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" /></span>
+&nbsp; -->
  <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
- <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" /></span>
-&nbsp;
- <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
- <span><img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=3880FF" alt="Ionic logo" title="Ionic" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
+<!--  <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" /></span>
+&nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp; -->
 </p>
 👉 Database & Cloud Hosting
 <p align="left">
@@ -73,31 +71,29 @@ const user = {
 </p>
 👉 Libraries
 <p align="left">
-<span><img src="https://img.shields.io/badge/iOS-282C34?logo=apple&logoColor=000000" alt="Apple logo" title="Apple" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp; -->
  </p>
 👉 Software & Tools
 <p align="left">
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp; -->
+<span><img src="https://img.shields.io/badge/Xcode-282C34?logo=xcode&logoColor=147EFB" alt="Xcodee logo" title="Xcode" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=Amazon-AWS&logoColor=F05032" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=Amazon-AWS&logoColor=F05032" alt="Amazon AWS logo" title="Amazon AWS" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=0052CC" alt="Trello logo" title="Trello" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
@@ -105,8 +101,8 @@ const user = {
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Xcode-282C34?logo=xcode&logoColor=147EFB" alt="Xcodee logo" title="Xcode" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Xcode-282C34?logo=xcode&logoColor=147EFB" alt="Xcodee logo" title="Xcode" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 </p>
