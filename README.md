@@ -112,6 +112,13 @@ const user = {
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quaan154dev&show_icons=true&locale=en&layout=compact" alt="quaan154dev" /></a>
 <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quaan154dev&show_icons=true&locale=en" alt="quaan154dev" /></a>
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quaan154dev&" alt="quaan154dev" /></a>
+<td>
+        <div align=center>
+          <a href="#" title="Trungquandev">
+            <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=sawsew467&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+          </a>
+        </div>
+ </td>
 </p>
 
 
