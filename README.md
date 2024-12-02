@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quandba.1</h1>
-<h1 align="center">🐳⚙️⚙️</h1>
+<h1 align="center">⚙️⚙️</h1>
 <h3 align="center">A software engineer passionate developer from Vietnam</h3>
 <img align="right"  alt="Coding" width="500" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
