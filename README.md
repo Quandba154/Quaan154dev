@@ -44,6 +44,8 @@ const user = {
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
 <!--   <span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" /></span> -->
 &nbsp;
 </p>
