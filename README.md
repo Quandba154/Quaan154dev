@@ -9,7 +9,6 @@ const user = {
     name: "Dao Ba Anh Quan",
     age: 21,
     currentUniversity: "FPT University",
-    website: ""
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaan154dev&label=Profile%20views&color=0e75b6&style=flat" alt="quaan154dev" /> </p>
