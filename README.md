@@ -2,7 +2,7 @@
 <h1 align="center">⚙️⚙️</h1>
 <h3 align="center">A software engineer passionate developer from Vietnam</h3>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-<img align="right"  alt="Coding" width="500" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ## Who am I?
 ```javascript
@@ -13,6 +13,7 @@ const user = {
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quaan154dev&label=Profile%20views&color=0e75b6&style=flat" alt="quaan154dev" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
