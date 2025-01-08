@@ -2,7 +2,7 @@
 <h1 align="center">⚙️⚙️</h1>
 <h3 align="center">A software engineer passionate developer from Vietnam</h3>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
-<img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ## Who am I?
 ```javascript
